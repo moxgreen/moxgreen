@@ -22,7 +22,7 @@
 - Open to collaborations that push the boundaries of bioinformatics and computational biology.
 
 ### 📬 Contact Me
-- For collaborations, questions, or to get in touch, email me at `ivan.molineris@unito.it`.
+- For collaborations, questions, or to get in touch, feel free to contacti me.
 
 ### 🔍 Current Projects
 - **Not Just Another RNAseq Pipeline (nJARP):** Focusing on integrating state-of-the-art procedures for RNA-seq analysis.
